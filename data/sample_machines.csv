@@ -1,0 +1,4 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min]
+L,300.0,310.0,1500,40.0,100
+M,303.0,313.0,1350,72.0,230
+H,298.0,308.0,2100,18.0,15

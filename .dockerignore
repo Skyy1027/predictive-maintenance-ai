@@ -1,0 +1,5 @@
+.git/
+__pycache__/
+*.pyc
+.DS_Store
+Predictive_Maintenance_Project_Report.docx
